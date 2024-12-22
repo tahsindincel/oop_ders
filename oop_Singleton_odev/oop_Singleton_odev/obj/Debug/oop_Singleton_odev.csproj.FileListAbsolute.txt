@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Singleton_odev\oop_Singleton_odev\obj\Debug\oop_Singleton_odev.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Singleton_odev\oop_Singleton_odev\obj\Debug\oop_Singleton_odev.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Singleton_odev\oop_Singleton_odev\bin\Debug\oop_Singleton_odev.exe.config
+D:\C# Denemeler\oop\oop_Singleton_odev\oop_Singleton_odev\bin\Debug\oop_Singleton_odev.exe
+D:\C# Denemeler\oop\oop_Singleton_odev\oop_Singleton_odev\bin\Debug\oop_Singleton_odev.pdb
+D:\C# Denemeler\oop\oop_Singleton_odev\oop_Singleton_odev\obj\Debug\oop_Singleton_odev.exe
+D:\C# Denemeler\oop\oop_Singleton_odev\oop_Singleton_odev\obj\Debug\oop_Singleton_odev.pdb

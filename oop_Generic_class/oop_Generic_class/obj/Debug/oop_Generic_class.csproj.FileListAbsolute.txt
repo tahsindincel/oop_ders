@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Generic_class\oop_Generic_class\bin\Debug\oop_Generic_class.exe.config
+D:\C# Denemeler\oop\oop_Generic_class\oop_Generic_class\bin\Debug\oop_Generic_class.exe
+D:\C# Denemeler\oop\oop_Generic_class\oop_Generic_class\bin\Debug\oop_Generic_class.pdb
+D:\C# Denemeler\oop\oop_Generic_class\oop_Generic_class\obj\Debug\oop_Generic_class.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Generic_class\oop_Generic_class\obj\Debug\oop_Generic_class.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Generic_class\oop_Generic_class\obj\Debug\oop_Generic_class.exe
+D:\C# Denemeler\oop\oop_Generic_class\oop_Generic_class\obj\Debug\oop_Generic_class.pdb

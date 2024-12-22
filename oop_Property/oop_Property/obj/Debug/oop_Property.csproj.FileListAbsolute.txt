@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Property\oop_Property\bin\Debug\oop_Property.exe.config
+D:\C# Denemeler\oop\oop_Property\oop_Property\bin\Debug\oop_Property.exe
+D:\C# Denemeler\oop\oop_Property\oop_Property\bin\Debug\oop_Property.pdb
+D:\C# Denemeler\oop\oop_Property\oop_Property\obj\Debug\oop_Property.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Property\oop_Property\obj\Debug\oop_Property.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Property\oop_Property\obj\Debug\oop_Property.exe
+D:\C# Denemeler\oop\oop_Property\oop_Property\obj\Debug\oop_Property.pdb

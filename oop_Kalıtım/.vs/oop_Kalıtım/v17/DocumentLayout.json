@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Denemeler\\oop\\oop_Kal\u0131t\u0131m\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71BE64F4-4650-4EC4-892F-FD135F299DEC}|oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m.csproj|d:\\c# denemeler\\oop\\oop_kal\u0131t\u0131m\\oop_kal\u0131t\u0131m\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BE64F4-4650-4EC4-892F-FD135F299DEC}|oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m.csproj|solutionrelative:oop_kal\u0131t\u0131m\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BE64F4-4650-4EC4-892F-FD135F299DEC}|oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m.csproj|d:\\c# denemeler\\oop\\oop_kal\u0131t\u0131m\\oop_kal\u0131t\u0131m\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BE64F4-4650-4EC4-892F-FD135F299DEC}|oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m.csproj|solutionrelative:oop_kal\u0131t\u0131m\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BE64F4-4650-4EC4-892F-FD135F299DEC}|oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m.csproj|d:\\c# denemeler\\oop\\oop_kal\u0131t\u0131m\\oop_kal\u0131t\u0131m\\varlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BE64F4-4650-4EC4-892F-FD135F299DEC}|oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m.csproj|solutionrelative:oop_kal\u0131t\u0131m\\varlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kedi.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m\\Kedi.cs",
+              "RelativeDocumentMoniker": "oop_Kal\u0131t\u0131m\\Kedi.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m\\Kedi.cs",
+              "RelativeToolTip": "oop_Kal\u0131t\u0131m\\Kedi.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:11:30.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Varlik.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m\\Varlik.cs",
+              "RelativeDocumentMoniker": "oop_Kal\u0131t\u0131m\\Varlik.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m\\Varlik.cs",
+              "RelativeToolTip": "oop_Kal\u0131t\u0131m\\Varlik.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:08:21.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m\\Program.cs",
+              "RelativeDocumentMoniker": "oop_Kal\u0131t\u0131m\\Program.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Kal\u0131t\u0131m\\oop_Kal\u0131t\u0131m\\Program.cs",
+              "RelativeToolTip": "oop_Kal\u0131t\u0131m\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:02:01.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Kalıtım\oop_Kalıtım\bin\Debug\oop_Kalıtım.exe.config
+D:\C# Denemeler\oop\oop_Kalıtım\oop_Kalıtım\bin\Debug\oop_Kalıtım.exe
+D:\C# Denemeler\oop\oop_Kalıtım\oop_Kalıtım\bin\Debug\oop_Kalıtım.pdb
+D:\C# Denemeler\oop\oop_Kalıtım\oop_Kalıtım\obj\Debug\oop_Kalıtım.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Kalıtım\oop_Kalıtım\obj\Debug\oop_Kalıtım.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Kalıtım\oop_Kalıtım\obj\Debug\oop_Kalıtım.exe
+D:\C# Denemeler\oop\oop_Kalıtım\oop_Kalıtım\obj\Debug\oop_Kalıtım.pdb

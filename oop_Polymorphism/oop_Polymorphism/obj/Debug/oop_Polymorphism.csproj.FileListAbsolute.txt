@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Polymorphism\oop_Polymorphism\bin\Debug\oop_Polymorphism.exe.config
+D:\C# Denemeler\oop\oop_Polymorphism\oop_Polymorphism\bin\Debug\oop_Polymorphism.exe
+D:\C# Denemeler\oop\oop_Polymorphism\oop_Polymorphism\bin\Debug\oop_Polymorphism.pdb
+D:\C# Denemeler\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.exe
+D:\C# Denemeler\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.pdb
