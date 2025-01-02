@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Denemeler\\oop\\oop_Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2386FCF-36C7-4A0B-9394-81700E4902D6}|oop_Adapter\\oop_Adapter.csproj|d:\\c# denemeler\\oop\\oop_adapter\\oop_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2386FCF-36C7-4A0B-9394-81700E4902D6}|oop_Adapter\\oop_Adapter.csproj|solutionrelative:oop_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2386FCF-36C7-4A0B-9394-81700E4902D6}|oop_Adapter\\oop_Adapter.csproj|d:\\c# denemeler\\oop\\oop_adapter\\oop_adapter\\uclupriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2386FCF-36C7-4A0B-9394-81700E4902D6}|oop_Adapter\\oop_Adapter.csproj|solutionrelative:oop_adapter\\uclupriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2386FCF-36C7-4A0B-9394-81700E4902D6}|oop_Adapter\\oop_Adapter.csproj|d:\\c# denemeler\\oop\\oop_adapter\\oop_adapter\\ikilipriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2386FCF-36C7-4A0B-9394-81700E4902D6}|oop_Adapter\\oop_Adapter.csproj|solutionrelative:oop_adapter\\ikilipriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2386FCF-36C7-4A0B-9394-81700E4902D6}|oop_Adapter\\oop_Adapter.csproj|d:\\c# denemeler\\oop\\oop_adapter\\oop_adapter\\adaptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2386FCF-36C7-4A0B-9394-81700E4902D6}|oop_Adapter\\oop_Adapter.csproj|solutionrelative:oop_adapter\\adaptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Adapter\\oop_Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "oop_Adapter\\Program.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Adapter\\oop_Adapter\\Program.cs",
+              "RelativeToolTip": "oop_Adapter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:38:31.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adaptor.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Adapter\\oop_Adapter\\Adaptor.cs",
+              "RelativeDocumentMoniker": "oop_Adapter\\Adaptor.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Adapter\\oop_Adapter\\Adaptor.cs",
+              "RelativeToolTip": "oop_Adapter\\Adaptor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:42:36.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IkiliPriz.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Adapter\\oop_Adapter\\IkiliPriz.cs",
+              "RelativeDocumentMoniker": "oop_Adapter\\IkiliPriz.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Adapter\\oop_Adapter\\IkiliPriz.cs",
+              "RelativeToolTip": "oop_Adapter\\IkiliPriz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:39:40.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcluPriz.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Adapter\\oop_Adapter\\UcluPriz.cs",
+              "RelativeDocumentMoniker": "oop_Adapter\\UcluPriz.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Adapter\\oop_Adapter\\UcluPriz.cs",
+              "RelativeToolTip": "oop_Adapter\\UcluPriz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:39:23.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

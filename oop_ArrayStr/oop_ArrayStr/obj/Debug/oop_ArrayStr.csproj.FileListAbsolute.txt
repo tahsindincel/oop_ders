@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_ArrayStr\oop_ArrayStr\bin\Debug\oop_ArrayStr.exe.config
+D:\C# Denemeler\oop\oop_ArrayStr\oop_ArrayStr\bin\Debug\oop_ArrayStr.exe
+D:\C# Denemeler\oop\oop_ArrayStr\oop_ArrayStr\bin\Debug\oop_ArrayStr.pdb
+D:\C# Denemeler\oop\oop_ArrayStr\oop_ArrayStr\obj\Debug\oop_ArrayStr.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_ArrayStr\oop_ArrayStr\obj\Debug\oop_ArrayStr.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_ArrayStr\oop_ArrayStr\obj\Debug\oop_ArrayStr.exe
+D:\C# Denemeler\oop\oop_ArrayStr\oop_ArrayStr\obj\Debug\oop_ArrayStr.pdb

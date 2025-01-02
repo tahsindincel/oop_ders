@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Adapter\oop_Adapter\bin\Debug\oop_Adapter.exe.config
+D:\C# Denemeler\oop\oop_Adapter\oop_Adapter\bin\Debug\oop_Adapter.exe
+D:\C# Denemeler\oop\oop_Adapter\oop_Adapter\bin\Debug\oop_Adapter.pdb
+D:\C# Denemeler\oop\oop_Adapter\oop_Adapter\obj\Debug\oop_Adapter.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Adapter\oop_Adapter\obj\Debug\oop_Adapter.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Adapter\oop_Adapter\obj\Debug\oop_Adapter.exe
+D:\C# Denemeler\oop\oop_Adapter\oop_Adapter\obj\Debug\oop_Adapter.pdb

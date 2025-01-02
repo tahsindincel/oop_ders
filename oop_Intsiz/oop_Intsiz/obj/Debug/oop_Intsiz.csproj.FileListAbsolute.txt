@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Intsiz\oop_Intsiz\bin\Debug\oop_Intsiz.exe.config
+D:\C# Denemeler\oop\oop_Intsiz\oop_Intsiz\bin\Debug\oop_Intsiz.exe
+D:\C# Denemeler\oop\oop_Intsiz\oop_Intsiz\bin\Debug\oop_Intsiz.pdb
+D:\C# Denemeler\oop\oop_Intsiz\oop_Intsiz\obj\Debug\oop_Intsiz.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Intsiz\oop_Intsiz\obj\Debug\oop_Intsiz.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Intsiz\oop_Intsiz\obj\Debug\oop_Intsiz.exe
+D:\C# Denemeler\oop\oop_Intsiz\oop_Intsiz\obj\Debug\oop_Intsiz.pdb

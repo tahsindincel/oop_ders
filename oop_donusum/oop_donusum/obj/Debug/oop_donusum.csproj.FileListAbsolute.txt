@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_donusum\oop_donusum\bin\Debug\oop_donusum.exe.config
+D:\C# Denemeler\oop\oop_donusum\oop_donusum\bin\Debug\oop_donusum.exe
+D:\C# Denemeler\oop\oop_donusum\oop_donusum\bin\Debug\oop_donusum.pdb
+D:\C# Denemeler\oop\oop_donusum\oop_donusum\obj\Debug\oop_donusum.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_donusum\oop_donusum\obj\Debug\oop_donusum.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_donusum\oop_donusum\obj\Debug\oop_donusum.exe
+D:\C# Denemeler\oop\oop_donusum\oop_donusum\obj\Debug\oop_donusum.pdb

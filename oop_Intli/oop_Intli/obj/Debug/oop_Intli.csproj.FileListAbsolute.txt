@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Intli\oop_Intli\obj\Debug\oop_Intli.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Intli\oop_Intli\obj\Debug\oop_Intli.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Intli\oop_Intli\bin\Debug\oop_Intli.exe.config
+D:\C# Denemeler\oop\oop_Intli\oop_Intli\bin\Debug\oop_Intli.exe
+D:\C# Denemeler\oop\oop_Intli\oop_Intli\bin\Debug\oop_Intli.pdb
+D:\C# Denemeler\oop\oop_Intli\oop_Intli\obj\Debug\oop_Intli.exe
+D:\C# Denemeler\oop\oop_Intli\oop_Intli\obj\Debug\oop_Intli.pdb

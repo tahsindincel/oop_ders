@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Denemeler\\oop\\oop_Intli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|D:\\C# Denemeler\\oop\\oop_Intli\\oop_intli\\dans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|solutionrelative:oop_intli\\dans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|D:\\C# Denemeler\\oop\\oop_Intli\\oop_intli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|solutionrelative:oop_intli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|D:\\C# Denemeler\\oop\\oop_Intli\\oop_intli\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|solutionrelative:oop_intli\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|D:\\C# Denemeler\\oop\\oop_Intli\\oop_intli\\idansedebilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|solutionrelative:oop_intli\\idansedebilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|D:\\C# Denemeler\\oop\\oop_Intli\\oop_intli\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|solutionrelative:oop_intli\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|D:\\C# Denemeler\\oop\\oop_Intli\\oop_intli\\koro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|solutionrelative:oop_intli\\koro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|d:\\c# denemeler\\oop\\oop_intli\\oop_intli\\isesverebilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA312393-E507-4599-96AC-C5937B1CBB73}|oop_Intli\\oop_Intli.csproj|solutionrelative:oop_intli\\isesverebilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Program.cs",
+              "RelativeDocumentMoniker": "oop_Intli\\Program.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Program.cs",
+              "RelativeToolTip": "oop_Intli\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:06:08.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Robot.cs",
+              "RelativeDocumentMoniker": "oop_Intli\\Robot.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Robot.cs",
+              "RelativeToolTip": "oop_Intli\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:34:52.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dans.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Dans.cs",
+              "RelativeDocumentMoniker": "oop_Intli\\Dans.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Dans.cs",
+              "RelativeToolTip": "oop_Intli\\Dans.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:32:19.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Idansedebilenler.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Idansedebilenler.cs",
+              "RelativeDocumentMoniker": "oop_Intli\\Idansedebilenler.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Idansedebilenler.cs",
+              "RelativeToolTip": "oop_Intli\\Idansedebilenler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:31:59.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Insan.cs",
+              "RelativeDocumentMoniker": "oop_Intli\\Insan.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Insan.cs",
+              "RelativeToolTip": "oop_Intli\\Insan.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:26:33.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Koro.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Koro.cs",
+              "RelativeDocumentMoniker": "oop_Intli\\Koro.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Koro.cs",
+              "RelativeToolTip": "oop_Intli\\Koro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:23:13.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Isesverebilenler.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Isesverebilenler.cs",
+              "RelativeDocumentMoniker": "oop_Intli\\Isesverebilenler.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intli\\oop_Intli\\Isesverebilenler.cs",
+              "RelativeToolTip": "oop_Intli\\Isesverebilenler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:07:10.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

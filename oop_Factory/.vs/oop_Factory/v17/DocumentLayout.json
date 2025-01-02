@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Denemeler\\oop\\oop_Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|D:\\C# Denemeler\\oop\\oop_Factory\\oop_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|solutionrelative:oop_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|D:\\C# Denemeler\\oop\\oop_Factory\\oop_factory\\ifabrika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|solutionrelative:oop_factory\\ifabrika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|D:\\C# Denemeler\\oop\\oop_Factory\\oop_factory\\margarithafab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|solutionrelative:oop_factory\\margarithafab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|d:\\c# denemeler\\oop\\oop_factory\\oop_factory\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|solutionrelative:oop_factory\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|D:\\C# Denemeler\\oop\\oop_Factory\\oop_factory\\margarithapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|solutionrelative:oop_factory\\margarithapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|D:\\C# Denemeler\\oop\\oop_Factory\\oop_factory\\karisikpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|solutionrelative:oop_factory\\karisikpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|D:\\C# Denemeler\\oop\\oop_Factory\\oop_factory\\karisikfab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6D592-6031-445D-B389-E3C9A5037B9B}|oop_Factory\\oop_Factory.csproj|solutionrelative:oop_factory\\karisikfab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\Program.cs",
+              "RelativeDocumentMoniker": "oop_Factory\\Program.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\Program.cs",
+              "RelativeToolTip": "oop_Factory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:09:34.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KarisikFab.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\KarisikFab.cs",
+              "RelativeDocumentMoniker": "oop_Factory\\KarisikFab.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\KarisikFab.cs",
+              "RelativeToolTip": "oop_Factory\\KarisikFab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:23:05.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MargarithaFab.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\MargarithaFab.cs",
+              "RelativeDocumentMoniker": "oop_Factory\\MargarithaFab.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\MargarithaFab.cs",
+              "RelativeToolTip": "oop_Factory\\MargarithaFab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:20:44.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFabrika.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\IFabrika.cs",
+              "RelativeDocumentMoniker": "oop_Factory\\IFabrika.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\IFabrika.cs",
+              "RelativeToolTip": "oop_Factory\\IFabrika.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:19:32.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KarisikPizza.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\KarisikPizza.cs",
+              "RelativeDocumentMoniker": "oop_Factory\\KarisikPizza.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\KarisikPizza.cs",
+              "RelativeToolTip": "oop_Factory\\KarisikPizza.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:16:33.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MargarithaPizza.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\MargarithaPizza.cs",
+              "RelativeDocumentMoniker": "oop_Factory\\MargarithaPizza.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\MargarithaPizza.cs",
+              "RelativeToolTip": "oop_Factory\\MargarithaPizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:12:58.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPizza.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\IPizza.cs",
+              "RelativeDocumentMoniker": "oop_Factory\\IPizza.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Factory\\oop_Factory\\IPizza.cs",
+              "RelativeToolTip": "oop_Factory\\IPizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:10:56.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

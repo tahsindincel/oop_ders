@@ -1,0 +1,7 @@
+D:\C# Denemeler\oop\oop_Factory\oop_Factory\bin\Debug\oop_Factory.exe.config
+D:\C# Denemeler\oop\oop_Factory\oop_Factory\bin\Debug\oop_Factory.exe
+D:\C# Denemeler\oop\oop_Factory\oop_Factory\bin\Debug\oop_Factory.pdb
+D:\C# Denemeler\oop\oop_Factory\oop_Factory\obj\Debug\oop_Factory.csproj.AssemblyReference.cache
+D:\C# Denemeler\oop\oop_Factory\oop_Factory\obj\Debug\oop_Factory.csproj.CoreCompileInputs.cache
+D:\C# Denemeler\oop\oop_Factory\oop_Factory\obj\Debug\oop_Factory.exe
+D:\C# Denemeler\oop\oop_Factory\oop_Factory\obj\Debug\oop_Factory.pdb

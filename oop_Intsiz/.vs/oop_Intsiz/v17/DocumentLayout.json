@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Denemeler\\oop\\oop_Intsiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_intsiz\\sesverenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\sesverenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_intsiz\\piyano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\piyano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|d:\\c# denemeler\\oop\\oop_intsiz\\oop_intsiz\\dansgrubu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\dansgrubu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_intsiz\\dansedebilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\dansedebilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_intsiz\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_intsiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_intsiz\\kus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\kus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_intsiz\\koro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\koro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_intsiz\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49768F6B-9C63-4DF4-9625-6D5CF8D05614}|oop_Intsiz\\oop_Intsiz.csproj|solutionrelative:oop_intsiz\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Program.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\Program.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Program.cs",
+              "RelativeToolTip": "oop_Intsiz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:04:03.354Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Robot.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\Robot.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Robot.cs",
+              "RelativeToolTip": "oop_Intsiz\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:31:14.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dansEdebilenler.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\dansEdebilenler.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\dansEdebilenler.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\dansEdebilenler.cs",
+              "RelativeToolTip": "oop_Intsiz\\dansEdebilenler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:30:22.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DansGrubu.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\DansGrubu.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\DansGrubu.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\DansGrubu.cs",
+              "RelativeToolTip": "oop_Intsiz\\DansGrubu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:29:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Piyano.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Piyano.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\Piyano.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Piyano.cs",
+              "RelativeToolTip": "oop_Intsiz\\Piyano.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:17:23.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kus.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Kus.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\Kus.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Kus.cs",
+              "RelativeToolTip": "oop_Intsiz\\Kus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:16:10.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Insan.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\Insan.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Insan.cs",
+              "RelativeToolTip": "oop_Intsiz\\Insan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:11:22.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Koro.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Koro.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\Koro.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\Koro.cs",
+              "RelativeToolTip": "oop_Intsiz\\Koro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:06:05.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sesVerenler.cs",
+              "DocumentMoniker": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\sesVerenler.cs",
+              "RelativeDocumentMoniker": "oop_Intsiz\\sesVerenler.cs",
+              "ToolTip": "D:\\C# Denemeler\\oop\\oop_Intsiz\\oop_Intsiz\\sesVerenler.cs*",
+              "RelativeToolTip": "oop_Intsiz\\sesVerenler.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:04:30.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
