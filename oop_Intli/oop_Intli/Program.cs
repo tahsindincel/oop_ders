@@ -10,12 +10,12 @@ namespace oop_Intli
     {
         static void Main(string[] args)
         {
-            Koro RedArmyChoir = new Koro();
+            Koro BogaziciCaz = new Koro();
             Dans dansgrubu = new Dans();
-            RedArmyChoir.sesVerenEkle(new Insan());
-            RedArmyChoir.sesVerenEkle(new Kus());
-            RedArmyChoir.sesVerenEkle(new Piyano());
-            RedArmyChoir.koroSoylesin();
+            BogaziciCaz.sesVerenEkle(new Insan());
+            BogaziciCaz.sesVerenEkle(new Kus());
+            BogaziciCaz.sesVerenEkle(new Piyano());
+            BogaziciCaz.koroSoylesin();
 
             Console.WriteLine("\n****************\n");
             dansgrubu.dansciEkle(new Robot());
